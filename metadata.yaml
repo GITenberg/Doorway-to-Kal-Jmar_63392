@@ -1,0 +1,26 @@
+_repo: Doorway-to-Kal-Jmar_63392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knight, Damon
+    aliases:
+    - Knight, Damon Francis
+    - Fleming, Stuart
+    birthdate: 1922
+    deathdate: 2002
+    gutenberg_agent_id: '25414'
+    url: http://www.gutenberg.org/2009/agents/25414
+    wikipedia: https://en.wikipedia.org/wiki/Damon_Francis_Knight
+description: ''
+gutenberg_issued: '2020-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Doorway to Kal-Jmar
+url: http://www.gutenberg.org/ebooks/63392
